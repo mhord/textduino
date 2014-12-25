@@ -1,0 +1,9 @@
+*.exe
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+libdynamic_item.a libroom.a
+*.o
+Makefile
+*.swp
+*.a
